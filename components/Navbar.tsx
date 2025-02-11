@@ -17,7 +17,7 @@ const Navbar = () => {
               className="max-sm:size-10"
             />
             <p className="max-md:hidden font-bold text-[26px] leading-6 uppercase">
-              Yoom
+              Castera
             </p>
           </div>
         </Link>

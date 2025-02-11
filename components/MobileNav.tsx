@@ -40,7 +40,9 @@ const MobileNav = () => {
                 height={32}
                 className="max-sm:size-10"
               />
-              <p className=" font-bold text-[26px] leading-6 uppercase">Yoom</p>
+              <p className=" font-bold text-[26px] leading-6 uppercase">
+                Castera
+              </p>
             </div>
           </Link>
           <div className="flex h-[calc(100vh-72px)] flex-col overflow-y-auto">
